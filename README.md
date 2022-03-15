@@ -1,6 +1,7 @@
 Mid-Term-Practical-Exam-PMC-103
 
 **Mid-Term Practical Exam Instructions:
+Duration : 3 pm to 4 pm
 
 **This paper contains two questions. Both are Compulsory.
 Answers must be handwritten and create PDF file in your folder.
